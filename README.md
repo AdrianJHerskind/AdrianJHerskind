@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @AdrianJHerskind, CVO (Chief Vibe Officer) of Herskind Development
-- 👀 I’m interested in Vibe Coding, AI Acceleration, Robots, Programming.
-- 🌱 I’m currently learning how to boost my freelance business.
-- 💞️ I’m looking to collaborate on open source projects and freelance software development work.
-- 📫 How to reach me ...
+## Hi, I'm Adrian 👋
 
-<!---
-AdrianJHerskind/AdrianJHerskind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CVO (Chief Vibe Officer) of Herskind Development, based in Denmark. I make small, playful Mac apps in Swift and give them away as open source.
+
+### Things I've made
+
+| | |
+|---|---|
+| ✨ **[Unprompted](https://github.com/AdrianJHerskind/Unprompted)** | Clippy for the AI age: a googly-eyed desktop pet that walks on your windows and offers help nobody asked for. Runs entirely on your Mac. |
+| 🖥️ **[Retro Screensavers](https://github.com/AdrianJHerskind/retro-screensavers)** | The classic 90s screen savers, rebuilt for modern macOS. Teapot included. |
+
+### What I'm into
+
+Swift and macOS, vibe coding with AI, robots, and making computers a little more fun again.
+
+### Working together
+
+I'm happy to collaborate on open source projects, and I take on freelance software development work. Ideas, bugs and feature wishes are welcome as issues on any of the projects above.
+
+If something here made you smile, you can [sponsor my work](https://github.com/sponsors/AdrianJHerskind). Entirely optional.
